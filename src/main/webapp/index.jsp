@@ -8,6 +8,6 @@
 </head>
 <body>
    <h1>hello world</h1>
-   <button>Conectar</button>
+   <a href='conexao.jsp'> <button>Conectar</button></a>
 </body>
 </html>
